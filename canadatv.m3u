@@ -3,3 +3,9 @@
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 group-title="canada",TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 group-title="canada",1
+http://z3.ubtvfans.com/live/rx3/1288/a5f61dc10adc29289aad1369dd357f95/index.m3u8
+#EXTINF:-1 group-title="canada",2
+http://z3.ubtvfans.com/live/rx3/1247/4eec5fd63793ed544caf842eacd42708/index.m3u8
+#EXTINF:-1 group-title="canada",3
+http://z3.ubtvfans.com/live/rx3/1286/cb528dc82ad763cb50d02f13c1f1378b/index.m3u8
