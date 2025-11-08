@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ftv"
+rtmp://192.168.0.102/live/test
+#EXTM3U
+#EXTINF:-1 tvg-name="ftv"
+http://z3.ubtvfans.com/live/rx3/1286/cb528dc82ad763cb50d02f13c1f1378b/index.m3u8
