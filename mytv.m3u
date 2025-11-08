@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Nginx fairchild
-rtmp://192.168.0.102/live/test
+rtmp://192.168.0.14/live/test
 #EXTINF:-1, fairchild
 http://z3.ubtvfans.com/live/rx3/1286/cb528dc82ad763cb50d02f13c1f1378b/index.m3u8
