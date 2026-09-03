@@ -9,8 +9,8 @@
     },
     {
         "id": "wolong",
-        "name": "卧龙资源",
-        "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
+        "name": "索尼┃采集",
+        "baseUrl": "https://suoniapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 2
